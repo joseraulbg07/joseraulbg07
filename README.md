@@ -10,6 +10,8 @@ Licenciatura en Informática de Culiacán
 
 Culiacán, Sinaloa México / Generación 2014 - 2019
 
+
+
 **Experiencia laboral** 💼
 
 Desarrollador de software | noviembre de 2022 - actualmente
