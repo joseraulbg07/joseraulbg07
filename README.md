@@ -5,7 +5,9 @@ Soy un desarrollador de software backend-frontend con conocimientos en las tecno
 **Formación academica** ✏️
 
 Universidad Autónoma de Sinaloa
+
 Licenciatura en Informática de Culiacán
+
 Culiacán, Sinaloa México / Generación 2014 - 2019
 
 **Experiencia laboral** 💼
