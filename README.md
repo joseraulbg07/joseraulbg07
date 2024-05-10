@@ -3,6 +3,7 @@
 Soy un desarrollador de software backend-frontend con conocimientos en las tecnologías de C#, JAVA, JS como lenguajes de programación, con experiencia en desarrollo de aplicaciones de escritorio, web y APIs, además de contar con conocimientos en los gestores de base de datos SQL - MySQL.
 
 **Formación academica** ✏️
+
 Universidad Autónoma de Sinaloa
 Título Académico: Licenciatura, Ingeniería de software 
 
@@ -11,6 +12,7 @@ Licenciatura en Informática de Culiacán
 Culiacán, Sinaloa México / Generación 2014 - 2019
 
 **Experiencia laboral** 💼
+
 Desarrollador de software | noviembre de 2022 - actualmente
 Supremo Tribunal de Justicia del Estado de Sinaloa - Culiacán, Sin.
 - Implementación de los proyectos en Arquitectura 3 capas.
