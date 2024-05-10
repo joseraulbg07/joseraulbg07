@@ -5,15 +5,13 @@ Soy un desarrollador de software backend-frontend con conocimientos en las tecno
 **Formación academica** ✏️
 
 Universidad Autónoma de Sinaloa
-Título Académico: Licenciatura, Ingeniería de software 
-
-Universidad Autónoma de Sinaloa
 Licenciatura en Informática de Culiacán
 Culiacán, Sinaloa México / Generación 2014 - 2019
 
 **Experiencia laboral** 💼
 
 Desarrollador de software | noviembre de 2022 - actualmente
+
 Supremo Tribunal de Justicia del Estado de Sinaloa - Culiacán, Sin.
 - Implementación de los proyectos en Arquitectura 3 capas.
 - Desarrollo de APIS en C# con .NET Core(REST) + React.
@@ -23,6 +21,7 @@ Supremo Tribunal de Justicia del Estado de Sinaloa - Culiacán, Sin.
 - Manejo de DB(SQL Server).
 
 Desarrollador de software | 2021/septiembre - 2022/noviembre
+
 Sistemas Financiera Bancaprepa - Culiacán, Sin.
 - Implementación de los proyectos en Arquitectura Hexagonal.
 - Desarrollo de APIS en JAVA con SpringBoot(REST) + React.
@@ -31,6 +30,7 @@ Sistemas Financiera Bancaprepa - Culiacán, Sin.
 - Manejo de DB(MySQL).
 
 Desarrollador de software / Analista de sistemas | 2019/febrero - 2021/septiembre
+
 Sistemas Coppel - Culiacán, Sin.
 - Desarrollo de apps web(HTML + CSS).
 - Desarrollo de APIS en PHP(REST).
