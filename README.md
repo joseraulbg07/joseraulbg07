@@ -1,6 +1,6 @@
 ### Hola 👋, mi nombre es José Raúl Bañuelos Gámez
 #### Licenciado en Informática - Desarrollador de software
-Soy un desarrollador de software backend-frontend con conocimientos en las tecnologías de C#, JAVA, JS como lenguajes de programación, con experiencia en desarrollo de aplicaciones de escritorio, web y APIs, además de contar con conocimientos en los gestores de base de datos SQL - MySQL.
+Soy un desarrollador de software backend-frontend con conocimientos en las tecnologías de C#, JAVA y JS como lenguajes de programación, con experiencia en desarrollo de aplicaciones de escritorio, web y APIs, además de contar con conocimientos en los gestores de base de datos SQL - MySQL.
 
 **Formación academica** ✏️
 
