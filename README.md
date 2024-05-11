@@ -1,15 +1,12 @@
 ### Hola 👋, mi nombre es José Raúl Bañuelos Gámez
 #### Licenciado en Informática - Desarrollador de software
-Soy un desarrollador de software backend-frontend con conocimientos en las tecnologías de C#, JAVA y JS como lenguajes de programación, con experiencia en desarrollo de aplicaciones de escritorio, web y APIs, además de contar con conocimientos en los gestores de base de datos SQL - MySQL.
+Desarrollador de software backend-frontend con conocimientos en las tecnologías de C#, JAVA y JS como lenguajes de programación, con experiencia en desarrollo de aplicaciones de escritorio, web y APIs, además de contar con conocimientos en los gestores de base de datos SQL - MySQL.
 
 **Formación academica** ✏️
 
-Universidad Autónoma de Sinaloa
-
-Licenciatura en Informática de Culiacán
+Universidad Autónoma de Sinaloa - Licenciatura en Informática de Culiacán
 
 Culiacán, Sinaloa México / Generación 2014 - 2019
-
 
 
 **Experiencia laboral** 💼
@@ -49,7 +46,7 @@ Sistemas Coppel - Culiacán, Sin.
 - Redacción y entrega del contrato.
 
 
-Habilidades: ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+Habilidades: ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 - 🔭 Estoy trabajando en el desarrollo de las REST APIs de Google: Youtube API y GoogleDrive API 
 - 🌱 Estoy aprendiendo Estoy llevando algunos cursos en mis tiempos libres sobre la plataforma Udemy para obtener unos certificados de GIT, JS y React. 
