@@ -51,7 +51,7 @@ Sistemas Coppel - Culiacán, Sin.
 - 🔭 Actualmente estoy trabajando en el desarrollo de REST APIs de Google: YouTube API y GoogleDrive API.
 - 🌱 Constantemente llevo algunos cursos en mis tiempos libres en la plataforma de Udemy para obtener algunas certificaciones en GIT, C#, JS y React.
 - 📫 Cómo contactarme: joseraulbg@gmail.com o +52 667 217 7775
-- ⚡ Soy autodidacta, un apasionado de la tecnología y comprometido a desarrollar aplicaciones de calidad que cumplan con precisión los requisitos del cliente, para así obtener resultados exitosos en cada proyecto.
+- ⚡ Autodidacta, apasionado de la tecnología y comprometido a desarrollar aplicaciones de calidad que cumplan con precisión los requisitos del cliente, para así obtener resultados exitosos en cada proyecto.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/joseraulbg07)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/josé-raúl-bañuelos-gámez-8b2b78196/)  
