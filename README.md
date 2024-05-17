@@ -13,7 +13,7 @@ Culiacán, Sinaloa México / Generación 2014 - 2019
 
 Desarrollador de software | noviembre de 2022 - actualmente
 
-Supremo Tribunal de Justicia del Estado de Sinaloa - Culiacán, Sin.
+Supremo Tribunal de Justicia del Estado de Sinaloa - Culiacán, Sinaloa México
 - Implementación de los proyectos en Arquitectura 3 capas.
 - Desarrollo de APIs en C# con .NET Core(REST) + React.
 - Desarrollo de apps web con Entity Framework.
@@ -23,7 +23,7 @@ Supremo Tribunal de Justicia del Estado de Sinaloa - Culiacán, Sin.
 
 Desarrollador de software | 2021/septiembre - 2022/noviembre
 
-Sistemas Financiera Bancaprepa - Culiacán, Sin.
+Sistemas Financiera Bancaprepa - Culiacán, Sinaloa México
 - Implementación de los proyectos en Arquitectura Hexagonal.
 - Desarrollo de APIs en JAVA con SpringBoot(REST) + React.
 - Mejoras de apps.
@@ -32,7 +32,7 @@ Sistemas Financiera Bancaprepa - Culiacán, Sin.
 
 Desarrollador de software / Analista de sistemas | 2019/febrero - 2021/septiembre
 
-Sistemas Coppel - Culiacán, Sin.
+Sistemas Coppel - Culiacán, Sinaloa México
 - Desarrollo de apps web(HTML + CSS).
 - Desarrollo de APIs en PHP(REST).
 - Mejoras de apps.
