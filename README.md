@@ -15,29 +15,34 @@ Desarrollador de software | noviembre de 2022 - actualmente
 
 Supremo Tribunal de Justicia del Estado de Sinaloa - Culiacán, Sinaloa México
 - Implementación de los proyectos en Arquitectura 3 capas.
-- Desarrollo de APIs en C# con .NET Core(REST) + React.
-- Desarrollo de apps web con Entity Framework.
+- Desarrollo de APIs en C# con .NET Core (REST) + React ts.
+- Desarrollo de apps web con ASP .NET
+- Uso de Entity Framework para la gestión de datos.
+- Manejo de DB (SQL Server).
+- Implementación de procedimientos almacenados.
 - Mejoras de apps.
 - Mantenimiento de apps.
-- Manejo de DB(SQL Server).
 
 Desarrollador de software | 2021/septiembre - 2022/noviembre
 
 Sistemas Financiera Bancaprepa - Culiacán, Sinaloa México
 - Implementación de los proyectos en Arquitectura Hexagonal.
-- Desarrollo de APIs en JAVA con SpringBoot(REST) + React.
+- Desarrollo de APIs en JAVA con SpringBoot (REST).
+- Manejo de DB (SQL Server).
+- Implementación de procedimientos almacenados.
 - Mejoras de apps.
 - Mantenimiento de apps.
-- Manejo de DB(MySQL).
-
+  
 Desarrollador de software / Analista de sistemas | 2019/febrero - 2021/septiembre
 
 Sistemas Coppel - Culiacán, Sinaloa México
-- Desarrollo de apps web(HTML + CSS).
-- Desarrollo de APIs en PHP(REST).
+- Implementación de los proyectos en Arquitectura 3 capas.
+- Desarrollo de APIs en C# con .NET Core (REST).
+- Desarrollo de apps web con ASP .NET
+- Manejo de DBS (MySQL y SQL Server).
+- Implementación de procedimientos almacenados.
 - Mejoras de apps.
 - Mantenimiento de apps.
-- Manejo de DBS(MySQL y SQL Server).
 - Análisis del problema.
 - Redacción del formato de negocio.
 - Pruebas funcionales en sistema.
