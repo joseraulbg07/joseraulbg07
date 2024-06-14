@@ -4,7 +4,7 @@ Desarrollador de software backend-frontend con conocimientos en las tecnologías
 
 **Formación academica** ✏️
 
-Universidad Autónoma de Sinaloa - Licenciatura en Informática de Culiacán
+Universidad Autónoma de Sinaloa - Facultad de Licenciatura en Informática de Culiacán
 
 Culiacán, Sinaloa México / Generación 2014 - 2019
 
