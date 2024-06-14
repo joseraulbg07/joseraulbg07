@@ -37,7 +37,7 @@ Desarrollador de software / Analista de sistemas | 2019/febrero - 2021/septiembr
 
 Sistemas Coppel - Culiacán, Sinaloa México
 - Implementación de los proyectos en Arquitectura 3 capas.
-- Desarrollo de APIs en C# con .NET Core (REST).
+- Desarrollo de APIs en PHP con Laravel.
 - Desarrollo de apps web con ASP .NET
 - Manejo de DBS (MySQL y SQL Server).
 - Implementación de procedimientos almacenados.
