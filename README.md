@@ -11,7 +11,7 @@ Culiacán, Sinaloa México / Generación 2014 - 2019
 
 **Experiencia laboral** 💼
 
-Desarrollador de software | noviembre de 2022 - actualmente
+Desarrollador de software | 2022/diciembre - actualmente
 
 Supremo Tribunal de Justicia del Estado de Sinaloa - Culiacán, Sinaloa México
 - Implementación de los proyectos en Arquitectura 3 capas.
@@ -23,7 +23,7 @@ Supremo Tribunal de Justicia del Estado de Sinaloa - Culiacán, Sinaloa México
 - Mejoras de apps.
 - Mantenimiento de apps.
 
-Desarrollador de software | 2021/septiembre - 2022/noviembre
+Desarrollador de software | 2021/septiembre - 2022/diciembre
 
 Sistemas Financiera Bancaprepa - Culiacán, Sinaloa México
 - Implementación de los proyectos en Arquitectura Hexagonal.
