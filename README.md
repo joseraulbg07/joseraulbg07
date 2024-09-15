@@ -12,7 +12,6 @@ Culiacán, Sinaloa México / Generación 2014 - 2019
 **Experiencia laboral** 💼
 
 LinkThinks - Aguascalientes, Aguascalientes México.
-
 Desarrollador .NET - Remoto (contrato temporal de 3 meses, por proyecto) | Junio 2024 - Septiembre 2024
 - Implementación de la arquitectura MVC
 - Desarrollo y mejoras de REST APIs en C#.NET Core
@@ -33,8 +32,8 @@ Desarrollador .NET - Remoto (contrato temporal de 3 meses, por proyecto) | Junio
              · Microsoft Visual Studio Code · SQL Server Management Studio · DBeaver
 
 
-Supremo Tribunal de Justicia del Estado de Sinaloa DTIC Sistemas Desarrollo - Culiacán, Sinaloa México.
 
+Supremo Tribunal de Justicia del Estado de Sinaloa DTIC Sistemas Desarrollo - Culiacán, Sinaloa México.
 Desarrollador full stack - Presencial | Diciembre 2022 - Junio 2024
 - Implementación de la arquitectura MVC
 - Desarrollo y mejoras de REST APIs en C# .NET Core + React ts
@@ -57,8 +56,8 @@ Desarrollador full stack - Presencial | Diciembre 2022 - Junio 2024
              · Visual Studio · Microsoft Visual Studio Code · SQL Server Management Studio · DBeaver
 
 
-Financiera Bancaprepa Sistemas Desarrollo - Culiacán, Sinaloa México.
 
+Financiera Bancaprepa Sistemas Desarrollo - Culiacán, Sinaloa México.
 Desarrollador back-end - Presencial | Septiembre 2021 - Diciembre 2022
 - Implementación de la arquitectura hexagonal
 - Desarrollo y mejoras de REST APIs en JAVA con Spring Boot
@@ -78,9 +77,9 @@ Desarrollador back-end - Presencial | Septiembre 2021 - Diciembre 2022
   Aptitudes: Arquitectura hexagonal · Java · Spring Boot · Hibernate · PHP · SQL · MySQL · Git · IntelliJ IDEA 
              · Microsoft Visual Studio Code · SQL Server Management Studio · DBeaver
 
+
   
 Coppel Sistemas Desarrollo - Culiacán, Sinaloa México.
-
 Desarrollador back-end / analista de sistemas - Presencial | Febrero 2019 - Septiembre 2021
 - Implementación de la arquitectura MVC
 - Desarrollo y mejoras de APIs en PHP con Laravel
