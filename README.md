@@ -1,54 +1,109 @@
 ### Hola 👋, mi nombre es José Raúl Bañuelos Gámez
 #### Licenciado en Informática - Desarrollador de software
-Desarrollador de software backend-frontend con conocimientos en las tecnologías de C#, JAVA, JS y React como lenguajes de programación, con experiencia en desarrollo de aplicaciones de escritorio y web - APIs, además de contar con conocimientos en los gestores de base de datos SQL - MySQL y conocimientos de tareas a realizar por parte del puesto de analista de sistemas.
+Desarrollador de software backend - frontend con conocimiento en las tecnologías de C#, JAVA, JS y React como lenguajes de programación, experiencia en desarrollo y mantenimiento para aplicaciones de escritorio, web y REST APIs, además del manejo de los gestores de base de datos SQL - MySQL y conocimiento de las tareas a realizar por parte del puesto de analista de sistemas.
 
 **Formación academica** ✏️
 
-Universidad Autónoma de Sinaloa - Facultad de Licenciatura en Informática de Culiacán
+Universidad Autónoma de Sinaloa - Facultad de Informática Culiacán
 
 Culiacán, Sinaloa México / Generación 2014 - 2019
 
 
 **Experiencia laboral** 💼
 
-Desarrollador de software | 2022/diciembre - actualmente
+LinkThinks - Aguascalientes, Aguascalientes México.
 
-Supremo Tribunal de Justicia del Estado de Sinaloa - Culiacán, Sinaloa México
-- Implementación de los proyectos en Arquitectura 3 capas.
-- Desarrollo de APIs en C# con .NET Core (REST) + React ts.
-- Desarrollo de apps web con ASP .NET
-- Uso de Entity Framework para la gestión de datos.
-- Manejo de DB (SQL Server).
-- Implementación de procedimientos almacenados.
-- Mejoras de apps.
-- Mantenimiento de apps.
+Desarrollador .NET - Remoto (contrato temporal de 3 meses, por proyecto) | Junio 2024 - Septiembre 2024
+- Implementación de la arquitectura MVC
+- Desarrollo y mejoras de REST APIs en C#.NET Core
+- Implementación y mejoras de servicios con C# .NET Core 6.0
+- Revisión de propuestas para mejoras y actualizaciones
+- Exploración, análisis de módulos y comportamiento de reglas de negocio
+- Análisis en el entendimiento de código hecho por terceros
+- Investigación de nuevas tecnologías, complementos y componentes de terceros
+- Uso de Entity Framework para la gestión de datos (ORM)
+- Administración del repositorio de código fuente, gestión de permisos, creación de ramas y revisión de aprobaciones de desarrollo
+- Manejo de DB SQL
+- Implementación y mejoras de procedimientos almacenados con SQL
+- Corrección de bugs
+- Control de incidencias mediante el uso de ServiceNow
+- Apoyo al usuario en tiempo real para el entendimiento y solución de problemas
 
-Desarrollador de software | 2021/septiembre - 2022/diciembre
+  Aptitudes: MVC · .NET Core · SQL · Git · Azure DevOps · ServiceNow · Visual Studio
+             · Microsoft Visual Studio Code · SQL Server Management Studio · DBeaver
 
-Sistemas Financiera Bancaprepa - Culiacán, Sinaloa México
-- Implementación de los proyectos en Arquitectura Hexagonal.
-- Desarrollo de APIs en JAVA con SpringBoot (REST).
-- Manejo de DB (SQL Server).
-- Implementación de procedimientos almacenados.
-- Mejoras de apps.
-- Mantenimiento de apps.
+
+Supremo Tribunal de Justicia del Estado de Sinaloa DTIC Sistemas Desarrollo - Culiacán, Sinaloa México.
+
+Desarrollador full stack - Presencial | Diciembre 2022 - Junio 2024
+- Implementación de la arquitectura MVC
+- Desarrollo y mejoras de REST APIs en C# .NET Core + React ts
+- Implementación y mejoras de servicios con C# .NET Core 6.0
+- Desarrollo y mejoras de pantallas con React js
+- Reutilización de componentes con React js
+- Mantenimiento de apps web con ASP .NET
+- Revisión de propuestas para mejoras y actualizaciones
+- Exploración, análisis de módulos y comportamiento de reglas de negocio
+- Investigación de nuevas tecnologías, complementos y componentes de terceros
+- Uso de Entity Framework para la gestión de datos (ORM)
+- Administración del repositorio de código fuente, gestión de permisos, creación de ramas y revisión de 
+  aprobaciones de desarrollo
+- Manejo de DB SQL
+- Implementación y mejoras de procedimientos almacenados con SQL
+- Corrección de bugs
+- Apoyo al usuario en tiempo real para el entendimiento y solución de problemas
   
-Desarrollador de software / Analista de sistemas | 2019/febrero - 2021/septiembre
+  Aptitudes: MVC · .NET Core · ASP.NET Core · Entity Framework · React.js · SQL · Azure DevOps · Git
+             · Visual Studio · Microsoft Visual Studio Code · SQL Server Management Studio · DBeaver
 
-Sistemas Coppel - Culiacán, Sinaloa México
-- Implementación de los proyectos en Arquitectura 3 capas.
-- Desarrollo de APIs en PHP con Laravel.
-- Desarrollo de apps web con ASP .NET
-- Manejo de DBS (MySQL y SQL Server).
-- Implementación de procedimientos almacenados.
-- Mejoras de apps.
-- Mantenimiento de apps.
-- Análisis del problema.
-- Redacción del formato de negocio.
-- Pruebas funcionales en sistema.
-- Redacción de requerimientos.
-- Estimación de tiempos de casos funcionales.
-- Redacción y entrega del contrato.
+
+Financiera Bancaprepa Sistemas Desarrollo - Culiacán, Sinaloa México.
+
+Desarrollador back-end - Presencial | Septiembre 2021 - Diciembre 2022
+- Implementación de la arquitectura hexagonal
+- Desarrollo y mejoras de REST APIs en JAVA con Spring Boot
+- Implementación y mejoras de servicios en Java con Spring Boot
+- Mantenimiento de apps web con PHP
+- Capacitación del desarrollo front-end con React js
+- Revisión de propuestas para mejoras y actualizaciones
+- Exploración, análisis de módulos y comportamiento de reglas de negocio
+- Investigación de nuevas tecnologías, complementos y componentes de terceros
+- Hibernate para la gestión de datos (ORM)
+- Administración del repositorio de código fuente, gestión de permisos, creación de ramas y revisión de 
+  aprobaciones de desarrollo
+- Manejo de DBS SQL / MySQL
+- Corrección de bugs
+- Apoyo al usuario en tiempo real para el entendimiento y solución de problemas
+  
+  Aptitudes: Arquitectura hexagonal · Java · Spring Boot · Hibernate · PHP · SQL · MySQL · Git · IntelliJ IDEA 
+             · Microsoft Visual Studio Code · SQL Server Management Studio · DBeaver
+
+  
+Coppel Sistemas Desarrollo - Culiacán, Sinaloa México.
+
+Desarrollador back-end / analista de sistemas - Presencial | Febrero 2019 - Septiembre 2021
+- Implementación de la arquitectura MVC
+- Desarrollo y mejoras de APIs en PHP con Laravel
+- Mantenimiento de apps web con ASP .NET
+- Revisión de propuestas para mejoras y actualizaciones
+- Exploración, análisis de módulos y comportamiento de reglas de negocio
+- Investigación de nuevas tecnologías, complementos y componentes de terceros
+- Eloquent para la gestión de datos (ORM)
+- Administración del repositorio de código fuente, gestión de permisos, creación de ramas y revisión de 
+  aprobaciones de desarrollo
+- Manejo de DB SQL
+- Implementación y mejoras de procedimientos almacenados con SQL
+- Corrección de bugs
+- Apoyo al usuario en tiempo real para el entendimiento y solución de problemas
+- Análisis del problema
+- Redacción del formato de negocio
+- Pruebas funcionales en sistema
+- Redacción de requerimientos
+- Estimación de tiempos de casos funcionales
+- Redacción y entrega del contrato
+
+  Aptitudes: MVC · ASP.NET Core · PHP · Laravel · Eloquent · SQL · Git · Microsoft Visual Studio Code · SQL 
+             Server Management Studio · DBeaver
 
 **Habilidades:**
 
