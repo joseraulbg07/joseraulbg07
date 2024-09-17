@@ -11,8 +11,7 @@ Culiacán, Sinaloa México / Generación 2014 - 2019
 
 **Experiencia laboral** 💼
 
-LinkThinks - Aguascalientes, Aguascalientes México.
-
+LinkThinks - Aguascalientes, Aguascalientes México. </br>
 Desarrollador .NET - Remoto (contrato temporal de 3 meses, por proyecto) | Junio 2024 - Septiembre 2024
 - Implementación de la arquitectura MVC
 - Desarrollo y mejoras de REST APIs en C#.NET Core
@@ -27,8 +26,7 @@ Desarrollador .NET - Remoto (contrato temporal de 3 meses, por proyecto) | Junio
 - Implementación y mejoras de procedimientos almacenados con SQL
 - Corrección de bugs
 - Control de incidencias mediante el uso de ServiceNow
-- Apoyo al usuario en tiempo real para el entendimiento y solución de problemas
-
+- Apoyo al usuario en tiempo real para el entendimiento y solución de problemas </br>
   Aptitudes: MVC · .NET Core · SQL · Git · Azure DevOps · ServiceNow · Visual Studio
              · Microsoft Visual Studio Code · SQL Server Management Studio · DBeaver
 
@@ -51,15 +49,13 @@ Desarrollador full stack - Presencial | Diciembre 2022 - Junio 2024
 - Manejo de DB SQL
 - Implementación y mejoras de procedimientos almacenados con SQL
 - Corrección de bugs
-- Apoyo al usuario en tiempo real para el entendimiento y solución de problemas
-  
+- Apoyo al usuario en tiempo real para el entendimiento y solución de problemas </br>
   Aptitudes: MVC · .NET Core · ASP.NET Core · Entity Framework · React.js · SQL · Azure DevOps · Git
              · Visual Studio · Microsoft Visual Studio Code · SQL Server Management Studio · DBeaver
 
 
 
-Financiera Bancaprepa Sistemas Desarrollo - Culiacán, Sinaloa México.
-
+Financiera Bancaprepa Sistemas Desarrollo - Culiacán, Sinaloa México. </br>
 Desarrollador back-end - Presencial | Septiembre 2021 - Diciembre 2022
 - Implementación de la arquitectura hexagonal
 - Desarrollo y mejoras de REST APIs en JAVA con Spring Boot
@@ -74,15 +70,13 @@ Desarrollador back-end - Presencial | Septiembre 2021 - Diciembre 2022
   aprobaciones de desarrollo
 - Manejo de DBS SQL / MySQL
 - Corrección de bugs
-- Apoyo al usuario en tiempo real para el entendimiento y solución de problemas
-  
+- Apoyo al usuario en tiempo real para el entendimiento y solución de problemas </br>
   Aptitudes: Arquitectura hexagonal · Java · Spring Boot · Hibernate · PHP · SQL · MySQL · Git · IntelliJ IDEA 
              · Microsoft Visual Studio Code · SQL Server Management Studio · DBeaver
 
 
   
-Coppel Sistemas Desarrollo - Culiacán, Sinaloa México.
-
+Coppel Sistemas Desarrollo - Culiacán, Sinaloa México. </br>
 Desarrollador back-end / analista de sistemas - Presencial | Febrero 2019 - Septiembre 2021
 - Implementación de la arquitectura MVC
 - Desarrollo y mejoras de APIs en PHP con Laravel
@@ -102,8 +96,7 @@ Desarrollador back-end / analista de sistemas - Presencial | Febrero 2019 - Sept
 - Pruebas funcionales en sistema
 - Redacción de requerimientos
 - Estimación de tiempos de casos funcionales
-- Redacción y entrega del contrato
-
+- Redacción y entrega del contrato </br>
   Aptitudes: MVC · ASP.NET Core · PHP · Laravel · Eloquent · SQL · Git · Microsoft Visual Studio Code · SQL 
              Server Management Studio · DBeaver
 
