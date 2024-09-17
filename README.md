@@ -34,7 +34,7 @@ Desarrollador .NET - Remoto (contrato temporal de 3 meses, por proyecto) | Junio
 
 
 
-Supremo Tribunal de Justicia del Estado de Sinaloa DTIC Sistemas Desarrollo - Culiacán, Sinaloa México. <br></br>
+Supremo Tribunal de Justicia del Estado de Sinaloa DTIC Sistemas Desarrollo - Culiacán, Sinaloa México. </br>
 Desarrollador full stack - Presencial | Diciembre 2022 - Junio 2024
 - Implementación de la arquitectura MVC
 - Desarrollo y mejoras de REST APIs en C# .NET Core + React ts
