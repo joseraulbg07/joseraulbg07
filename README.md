@@ -27,7 +27,7 @@ Desarrollador .NET - Remoto (contrato temporal de 3 meses, por proyecto) | Junio
 - Corrección de bugs
 - Control de incidencias mediante el uso de ServiceNow
 - Apoyo al usuario en tiempo real para el entendimiento y solución de problemas </br>
-  **Aptitudes:** MVC · .NET Core · SQL · Git · Azure DevOps · ServiceNow · Visual Studio
+  **APTITUDES:** MVC · .NET Core · SQL · Git · Azure DevOps · ServiceNow · Visual Studio
              · Microsoft Visual Studio Code · SQL Server Management Studio · DBeaver
 
 
@@ -50,7 +50,7 @@ Desarrollador full stack - Presencial | Diciembre 2022 - Junio 2024
 - Implementación y mejoras de procedimientos almacenados con SQL
 - Corrección de bugs
 - Apoyo al usuario en tiempo real para el entendimiento y solución de problemas </br>
-  **Aptitudes:** MVC · .NET Core · ASP.NET Core · Entity Framework · React.js · SQL · Azure DevOps · Git
+  **APTITUDES:** MVC · .NET Core · ASP.NET Core · Entity Framework · React.js · SQL · Azure DevOps · Git
              · Visual Studio · Microsoft Visual Studio Code · SQL Server Management Studio · DBeaver
 
 
@@ -71,7 +71,7 @@ Desarrollador back-end - Presencial | Septiembre 2021 - Diciembre 2022
 - Manejo de DBS SQL / MySQL
 - Corrección de bugs
 - Apoyo al usuario en tiempo real para el entendimiento y solución de problemas </br>
-  **Aptitudes:** Arquitectura hexagonal · Java · Spring Boot · Hibernate · PHP · SQL · MySQL · Git · IntelliJ IDEA 
+  **APTITUDES:** Arquitectura hexagonal · Java · Spring Boot · Hibernate · PHP · SQL · MySQL · Git · IntelliJ IDEA 
              · Microsoft Visual Studio Code · SQL Server Management Studio · DBeaver
 
 
@@ -97,7 +97,7 @@ Desarrollador back-end / analista de sistemas - Presencial | Febrero 2019 - Sept
 - Redacción de requerimientos
 - Estimación de tiempos de casos funcionales
 - Redacción y entrega del contrato </br>
-  **Aptitudes:** MVC · ASP.NET Core · PHP · Laravel · Eloquent · SQL · Git · Microsoft Visual Studio Code · SQL 
+  **APTITUDES:** MVC · ASP.NET Core · PHP · Laravel · Eloquent · SQL · Git · Microsoft Visual Studio Code · SQL 
              Server Management Studio · DBeaver
 
 **Habilidades:**
