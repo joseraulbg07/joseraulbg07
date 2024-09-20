@@ -72,7 +72,7 @@ Desarrollador back-end - Presencial | Septiembre 2021 - Diciembre 2022
 - Corrección de bugs
 - Apoyo al usuario en tiempo real para el entendimiento y solución de problemas </br>
   **APTITUDES:** Arquitectura hexagonal · Java · Spring Boot · Hibernate · PHP · SQL · MySQL · Git · IntelliJ IDEA 
-             · Microsoft Visual Studio Code · SQL Server Management Studio · DBeaver
+             · Microsoft Visual Studio Code · SQL Server Management Studio · Navicat
 
 
   
@@ -98,7 +98,7 @@ Desarrollador back-end / analista de sistemas - Presencial | Febrero 2019 - Sept
 - Estimación de tiempos de casos funcionales
 - Redacción y entrega del contrato </br>
   **APTITUDES:** MVC · ASP.NET Core · PHP · Laravel · Eloquent · SQL · Git · Microsoft Visual Studio Code · SQL 
-             Server Management Studio · DBeaver
+             Server Management Studio
 
 **Habilidades:**
 
