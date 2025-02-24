@@ -1,6 +1,6 @@
 ### Hola 👋, mi nombre es José Raúl Bañuelos Gámez
 #### Licenciado en Informática - Desarrollador de software
-Desarrollador de software back-end y front-end, con conocimiento y experiencia laboral en las tecnologías de C#, Java, Javascript “Node JS y React (js/ts)” como lenguajes de programación, habilidad en el desarrollo y mantenimiento de aplicaciones de escritorio, web apps y APIs REST, además del manejo de los gestores de base de datos SQL, MySQL y PostgreSQL, también cuento con experiencia en la implementación de herramientas IA, tales como ChatGPT (GPT-4o/o3-mini/o1) para optimizar procesos y mejorar la eficiencia en el desarrollo de software, asimismo el conocimiento de las responsabilidades del puesto como analista de sistemas.
+Desarrollador de software back-end y front-end, con conocimiento y experiencia laboral en las tecnologías de C#, Java, Javascript “Node JS y React (js/ts)” como lenguajes de programación, habilidad en el desarrollo y mantenimiento de aplicaciones de escritorio, web apps y APIs REST, además del manejo de los gestores de base de datos SQL, MySQL y PostgreSQL, también cuento con experiencia en la implementación de herramientas IA, tales como ChatGPT y sus modelos (GPT-4o/o3-mini/o1) para optimizar procesos y mejorar la eficiencia en el desarrollo de software, asimismo el conocimiento de las responsabilidades del puesto como analista de sistemas.
 
 **Formación academica** ✏️
 
@@ -38,7 +38,7 @@ Desarrollador Full-stack | Septiembre 2024 - Actualmente
 - Apoyo al usuario en tiempo real para el entendimiento y solución del problema
 - Apoyo/asesoramiento (capacitación) a estudiantes que están realizando sus prácticas profesionales y jóvenes que están inscritos en el programa federal Jóvenes construyendo el futuro
 - Asignación y seguimiento de actividades asignadas a los estudiantes que están realizando sus prácticas profesionales y jóvenes que están inscritos en el programa federal Jóvenes construyendo el futuro </br>
-  **APTITUDES:** Arquitectura MVC · Métodologías ágiles - Framework Scrum · Node JS · Sequelize · JSON · PostgreSQL · React.ts (tsx) · Axios · APIs REST · API de Postman · Git · GitHub · GitHub Desktop · Microsoft Visual Studio Code · Copilot · Cursor The AI Code Editor · DBeaver · WinMarge · Slack · JIRA · Miro · ChatGPT (GPT-4o/o1/o3-mini)
+  **APTITUDES:** Arquitectura MVC · Métodologías ágiles - Framework Scrum · Node JS · Sequelize · JSON · PostgreSQL · React.ts (tsx) · Axios · APIs REST · API de Postman · Git · GitHub · GitHub Desktop · Microsoft Visual Studio Code · Copilot · Cursor The AI Code Editor · DBeaver · WinMarge · Slack · JIRA · Miro · ChatGPT (GPT-4o/o3-mini/o1)
 
 
 **LinkThinks - Aguascalientes, Aguascalientes México.** </br>
