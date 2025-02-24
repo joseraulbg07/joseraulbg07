@@ -1,6 +1,6 @@
 ### Hola 👋, mi nombre es José Raúl Bañuelos Gámez
 #### Licenciado en Informática - Desarrollador de software
-Desarrollador de software back-end y front-end, con conocimiento y experiencia laboral en las tecnologías de C#, Java, Javascript “Node JS y React (js/ts)” como lenguajes de programación, habilidad en el desarrollo y mantenimiento de aplicaciones de escritorio, web apps y APIs REST, además del manejo de los gestores de base de datos SQL, MySQL y PostgreSQL, también cuento con experiencia en la implementación de herramientas IA, tales como ChatGPT (GPT-4o/o1) para optimizar procesos y mejorar la eficiencia en el desarrollo de software, asimismo el conocimiento de las responsabilidades del puesto como analista de sistemas.
+Desarrollador de software back-end y front-end, con conocimiento y experiencia laboral en las tecnologías de C#, Java, Javascript “Node JS y React (js/ts)” como lenguajes de programación, habilidad en el desarrollo y mantenimiento de aplicaciones de escritorio, web apps y APIs REST, además del manejo de los gestores de base de datos SQL, MySQL y PostgreSQL, también cuento con experiencia en la implementación de herramientas IA, tales como ChatGPT (GPT-4o/o3-mini/o1) para optimizar procesos y mejorar la eficiencia en el desarrollo de software, asimismo el conocimiento de las responsabilidades del puesto como analista de sistemas.
 
 **Formación academica** ✏️
 
