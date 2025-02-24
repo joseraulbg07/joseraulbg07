@@ -1,6 +1,6 @@
 ### Hola 👋, mi nombre es José Raúl Bañuelos Gámez
 #### Licenciado en Informática - Desarrollador de software
-Desarrollador de software backend - frontend con conocimiento en las tecnologías de C#, JAVA, JS y React como lenguajes de programación, experiencia en desarrollo y mantenimiento para aplicaciones de escritorio, web y REST APIs, además del manejo de los gestores de base de datos SQL - MySQL y conocimiento de las tareas a realizar por parte del puesto de analista de sistemas.
+Desarrollador de software back-end y front-end, con conocimiento y experiencia laboral en las tecnologías de C#, Java, Javascript “Node JS y React (js/ts)” como lenguajes de programación, habilidad en el desarrollo y mantenimiento de aplicaciones de escritorio, web apps y APIs REST, además del manejo de los gestores de base de datos SQL, MySQL y PostgreSQL, también cuento con experiencia en la implementación de herramientas IA, tales como ChatGPT (GPT-4o/o1) para optimizar procesos y mejorar la eficiencia en el desarrollo de software, asimismo el conocimiento de las responsabilidades del puesto como analista de sistemas.
 
 **Formación academica** ✏️
 
@@ -10,6 +10,34 @@ Culiacán, Sinaloa México / Generación 2014 - 2019
 
 
 **Experiencia laboral** 💼
+
+**Nexgen Systems - Culiacán, Sinaloa México.** </br>
+Desarrollador Full-stack | Septiembre 2024 - Actualmente
+- Implementación de la arquitectura MVC
+- Metodologías ágiles - Framework Scrum
+- Desarrollo back-end con Node JS v. 22.11.0
+- Creación y mejoras de APIs REST en Node JS
+- Implementación y optimización de servicios con Node JS
+- Desarrollo front-end con React.ts (React + Typescript + Vite), React v. 18.3.1
+- Creación y mejoras de servicios, componentes y pantallas en React.ts (tsx)
+- Reutilización de componentes con React.ts (tsx)
+- Implementación de Axios como puente de comunicación con el back-end
+- Uso de Hooks (useState,useEffect, etc,.)
+- Implementación de Material-UI (MUI)
+- Implementación de programación asíncrona
+- Realización de pruebas humo a los servicios con Postman
+- Corrección de bugs
+- Integración del desarrollo de software en los distintos entornos de trabajo: desarrollo, preproducción y producción
+- Revisión de propuestas para mejoras y actualizaciones
+- Análisis y exploración de módulos y comportamiento de reglas de negocio
+- Investigación de nuevas tecnologías, complementos y componentes de terceros
+- Gestión de datos con Sequelize como ORM
+- Acceso al repositorio de código fuente, creación de ramas y revisión de aprobaciones de desarrollo
+- Manejo de base de datos con PostgreSQL
+- Actualización de datos en tablas mediante querys en escenarios específicos
+- Apoyo al usuario en tiempo real para el entendimiento y solución del problema
+- Apoyo/asesoramiento (capacitación) a estudiantes que están realizando sus prácticas profesionales y jóvenes que están inscritos en el programa federal Jóvenes construyendo el futuro
+- Asignación y seguimiento de actividades asignadas a los estudiantes que están realizando sus prácticas profesionales y jóvenes que están inscritos en el programa federal Jóvenes construyendo el futuro
 
 **LinkThinks - Aguascalientes, Aguascalientes México.** </br>
 Desarrollador .NET - Remoto (contrato temporal de 3 meses, por proyecto) | Junio 2024 - Septiembre 2024
