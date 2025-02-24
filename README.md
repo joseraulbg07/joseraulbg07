@@ -37,96 +37,103 @@ Desarrollador Full-stack | Septiembre 2024 - Actualmente
 - Actualización de datos en tablas mediante querys en escenarios específicos
 - Apoyo al usuario en tiempo real para el entendimiento y solución del problema
 - Apoyo/asesoramiento (capacitación) a estudiantes que están realizando sus prácticas profesionales y jóvenes que están inscritos en el programa federal Jóvenes construyendo el futuro
-- Asignación y seguimiento de actividades asignadas a los estudiantes que están realizando sus prácticas profesionales y jóvenes que están inscritos en el programa federal Jóvenes construyendo el futuro
+- Asignación y seguimiento de actividades asignadas a los estudiantes que están realizando sus prácticas profesionales y jóvenes que están inscritos en el programa federal Jóvenes construyendo el futuro </br>
+  **APTITUDES:** Arquitectura MVC · Métodologías ágiles - Framework Scrum · Node JS · Sequelize · JSON · PostgreSQL · React.ts (tsx) · Axios · APIs REST · API de Postman · Git · GitHub · GitHub Desktop · Microsoft Visual Studio Code · Copilot · Cursor The AI Code Editor · DBeaver · WinMarge · Slack · JIRA · Miro · ChatGPT (GPT-4o/o1/o3-mini)
+
 
 **LinkThinks - Aguascalientes, Aguascalientes México.** </br>
 Desarrollador .NET - Remoto (contrato temporal de 3 meses, por proyecto) | Junio 2024 - Septiembre 2024
 - Implementación de la arquitectura MVC
-- Desarrollo y mejoras de REST APIs en C#.NET Core
-- Implementación y mejoras de servicios con C# .NET Core 6.0
-- Revisión de propuestas para mejoras y actualizaciones
-- Exploración, análisis de módulos y comportamiento de reglas de negocio
-- Análisis en el entendimiento de código hecho por terceros
-- Investigación de nuevas tecnologías, complementos y componentes de terceros
-- Uso de Entity Framework para la gestión de datos (ORM)
-- Administración del repositorio de código fuente, gestión de permisos, creación de ramas y revisión de aprobaciones de desarrollo
-- Manejo de DB SQL
-- Implementación y mejoras de procedimientos almacenados con SQL
+- Metodologías ágiles - Framework Scrum
+- Desarrollo back-end con C# .NET Core Core 5.0 y 6.0
+- Creación y mejoras de APIs REST en C# .NET Core
+- Implementación y optimización de servicios con C# .NET
+- Implementación de programación asíncrona
+- Realización de pruebas humo a los servicios con Postman
 - Corrección de bugs
+- Integración del desarrollo de software en los distintos entornos de trabajo: desarrollo, preproducción y producción
+- Revisión de propuestas para mejoras y actualizaciones
+- Análisis y exploración de módulos y comportamiento de reglas de negocio
+- Análisis en el entendimiento del código hecho por terceros
+- Investigación de nuevas tecnologías, complementos y componentes de terceros
+- Gestión de datos con Entity Framework como ORM
+- Acceso al repositorio de código fuente y revisión de aprobaciones de desarrollo
+- Manejo de bases de datos con SQL
+- Actualización de datos en tablas mediante querys en escenarios específicos
+- Implementación y optimización de procedimientos almacenados en SQL
 - Control de incidencias mediante el uso de ServiceNow
-- Apoyo al usuario en tiempo real para el entendimiento y solución de problemas </br>
-  **APTITUDES:** MVC · .NET Core · SQL · Git · Azure DevOps · ServiceNow · Visual Studio
-             · Microsoft Visual Studio Code · SQL Server Management Studio · DBeaver
-
+- Apoyo al usuario en tiempo real para el entendimiento y solución del problema </br>
+  **APTITUDES:** Arquitectura MVC · Métodologías ágiles - Framework Scrum · .NET Core · Entity Framework · JSON · SQL · APIs REST · API de Postman · Azure DevOps · Git · GitLab · ServiceNow · Microsoft Visaul Studio · SQL Server Management Studio · Trello
 
 
 **Supremo Tribunal de Justicia del Estado de Sinaloa DTIC Sistemas Desarrollo - Culiacán, Sinaloa México.** </br>
 Desarrollador full stack - Presencial | Diciembre 2022 - Junio 2024
 - Implementación de la arquitectura MVC
-- Desarrollo y mejoras de REST APIs en C# .NET Core + React ts
-- Implementación y mejoras de servicios con C# .NET Core 6.0
-- Desarrollo y mejoras de pantallas con React js
-- Reutilización de componentes con React js
-- Mantenimiento de apps web con ASP .NET
-- Revisión de propuestas para mejoras y actualizaciones
-- Exploración, análisis de módulos y comportamiento de reglas de negocio
-- Investigación de nuevas tecnologías, complementos y componentes de terceros
-- Uso de Entity Framework para la gestión de datos (ORM)
-- Administración del repositorio de código fuente, gestión de permisos, creación de ramas y revisión de 
-  aprobaciones de desarrollo
-- Manejo de DB SQL
-- Implementación y mejoras de procedimientos almacenados con SQL
+- Metodologías ágiles - Framework Scrum
+- Desarrollo back-end con C# .NET Core 3.1, 5.0 y 6.0
+- Creación y mejoras de APIs REST en C# .NET Core
+- Implementación y optimización de servicios con C# .NET Core
+- Desarrollo front-end con React.js (React + Javascript + Vite), React v. 14.16.0 y 17.0.1
+- Creación y mejoras de servicios, componentes y pantallas en React.js (jsx)
+- Reutilización de componentes con React.js (jsx)
+- Uso de Hooks (useState,useEffect, etc,.)
+- Mantenimiento de apps web en ASP .NET
+- Implementación de programación asíncrona
+- Realización de pruebas humo a los servicios con Postman
 - Corrección de bugs
-- Apoyo al usuario en tiempo real para el entendimiento y solución de problemas </br>
-  **APTITUDES:** MVC · .NET Core · ASP.NET Core · Entity Framework · React.js · SQL · Azure DevOps · Git
-             · Visual Studio · Microsoft Visual Studio Code · SQL Server Management Studio · DBeaver
-
+- Integración del desarrollo de software en los distintos entornos de trabajo: desarrollo, preproducción y producción
+- Revisión de propuestas para mejoras y actualizaciones
+- Análisis y exploración de módulos y comportamiento de reglas de negocio
+- Investigación de nuevas tecnologías, complementos y componentes de terceros
+- Gestión de datos con Entity Framework como ORM
+- Acceso al repositorio de código fuente, creación de ramas y revisión de aprobaciones de desarrollo
+- Manejo de base de datos con SQL
+- Actualización de datos en tablas mediante querys en escenarios específicos
+- Implementación y optimización de procedimientos almacenados en SQL
+- Apoyo al usuario en tiempo real para el entendimiento y solución del problema </br>
+  **APTITUDES:** Arquitectura MVC · Metodologías ágiles - Framework Scrum · .NET Core · ASP .NET · Entity Framework · JSON / XML · React.js (jsx) · SQL · APIs REST · API de Postman · Azure DevOps · Git · Microsoft Visual Studio · SQL Server Managemnt Studio · WinMarge
 
 
 **Financiera Bancaprepa Sistemas Desarrollo - Culiacán, Sinaloa México.** </br>
 Desarrollador back-end - Presencial | Septiembre 2021 - Diciembre 2022
 - Implementación de la arquitectura hexagonal
-- Desarrollo y mejoras de REST APIs en JAVA con Spring Boot
-- Implementación y mejoras de servicios en Java con Spring Boot
+- Metodologías tradicionales - Waterfall
+- Desarrollo back-end con Java
+- Creación y mejoras de APIs REST en Java e Spring Boot
+- Implementación y optimización de servicios con Java e Spring Boot
 - Mantenimiento de apps web con PHP
-- Capacitación del desarrollo front-end con React js
-- Revisión de propuestas para mejoras y actualizaciones
-- Exploración, análisis de módulos y comportamiento de reglas de negocio
-- Investigación de nuevas tecnologías, complementos y componentes de terceros
-- Hibernate para la gestión de datos (ORM)
-- Administración del repositorio de código fuente, gestión de permisos, creación de ramas y revisión de 
-  aprobaciones de desarrollo
-- Manejo de DBS SQL / MySQL
+- Realización de pruebas humo a los servicios con Postman
 - Corrección de bugs
+- Integración del desarrollo de software en los distintos entornos de trabajo: desarrollo, -preproducción y producción
+- Revisión de propuestas para mejoras y actualizaciones
+- Análisis y exploración de módulos y comportamiento de reglas de negocio
+- Investigación de nuevas tecnologías, complementos y componentes de terceros
+- Gestión de datos con Hibernate como ORM
+- Acceso al repositorio de código fuente y revisión de aprobaciones de desarrollo
+- Manejo de base de datos con MySQL
+- Actualización de datos en tablas mediante querys en escenarios específicos
 - Apoyo al usuario en tiempo real para el entendimiento y solución de problemas </br>
-  **APTITUDES:** Arquitectura hexagonal · Java · Spring Boot · Hibernate · PHP · SQL · MySQL · Git · IntelliJ IDEA 
-             · Microsoft Visual Studio Code · SQL Server Management Studio · Navicat
+  **APTITUDES:** Arquitectura Hexagonal · Metodologías tradicionales - Waterfal · Java · Spring Boot · Hibarnate · PHP · MySQL · APIs REST · API de Postman · Git · GitHub · IntelliJ IDEA · Microsoft Visual Studio Code · DBeaver · Trello
 
 
-  
 **Coppel Sistemas Desarrollo - Culiacán, Sinaloa México.** </br>
 Desarrollador back-end / analista de sistemas - Presencial | Febrero 2019 - Septiembre 2021
 - Implementación de la arquitectura MVC
-- Desarrollo y mejoras de APIs en PHP con Laravel
+- Desarrollo back-end con PHP y Laravel
+- Creación y mejoras de APIs en PHP y Laravel
 - Mantenimiento de apps web con ASP .NET
-- Revisión de propuestas para mejoras y actualizaciones
-- Exploración, análisis de módulos y comportamiento de reglas de negocio
-- Investigación de nuevas tecnologías, complementos y componentes de terceros
-- Eloquent para la gestión de datos (ORM)
-- Administración del repositorio de código fuente, gestión de permisos, creación de ramas y revisión de 
-  aprobaciones de desarrollo
-- Manejo de DB SQL
-- Implementación y mejoras de procedimientos almacenados con SQL
 - Corrección de bugs
-- Apoyo al usuario en tiempo real para el entendimiento y solución de problemas
-- Análisis del problema
-- Redacción del formato de negocio
-- Pruebas funcionales en sistema
-- Redacción de requerimientos
+- Revisión de propuestas para mejoras y actualizaciones
+- Análisis y exploración de módulos y comportamiento de reglas de negocio
+- Gestión de datos con Eloquent como ORM
+- Acceso del repositorio de código fuente y revisión de aprobaciones de desarrollo
+- Manejo de base de datos con SQL
+- Implementación y optimización de procedimientos almacenados en SQL
+- Análisis del problema y redacción de requerimientos
 - Estimación de tiempos de casos funcionales
-- Redacción y entrega del contrato </br>
-  **APTITUDES:** MVC · ASP.NET Core · PHP · Laravel · Eloquent · SQL · Git · Microsoft Visual Studio Code · SQL 
-             Server Management Studio
+- Redacción del formato de negocio
+- Pruebas funcionales en sistema y redacción de entrega del contrato </br>
+  **APTITUDES:** Arquitectura MVC · Metodologías tradicionales - Waterfal · ASP .NET · .NET Core · PHP · Laravel · Eloquent · SQL · Git · Microsoft Visual Studio Code · SQL Server Management Studio
 
 **Habilidades:**
 
